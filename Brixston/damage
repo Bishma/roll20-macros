@@ -1,0 +1,11 @@
+/r ?{Choose a Weapon|
+    Gnome EnHANDst Crossbow, 1d6 + 1 [Crossbow]|
+    +1 Dagger, 1d4 + 1|
+    Poison Dagger, 1d4 + 1
+  } + ?{Choose a Roll|
+    Standard, 0|
+    Sneak, 8d6 [Sneak Attack]|
+    Gnome Power, 1d6 [Gnome Power Up]|
+    Sneak Power, 1d6 [Gnome Power Up] + 8d6 [Sneak Attack]|
+    Insightful Sneak, 8d6 [Sneak Attack] + 3d6 [Insightful Fighting]|
+    Insightful Sneak w/ Gnome Power, 1d6 [Gnome Power] + 8d6 [Sneak Attack] + 3d6 [Insightful Fighting]}

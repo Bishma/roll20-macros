@@ -1,0 +1,4 @@
+/r ?{Weapon|
+    Jawn, 1d6 [Bludgeoning] + 1d6 [Psychic] + 12|
+    Crowbar, 1d8 [Bludgeoning] + 1d6 [Psychic] + 12
+  } 

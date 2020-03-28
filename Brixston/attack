@@ -1,0 +1,4 @@
+/r 9 + ?{Roll Type|
+  Standard, 1d20|
+  Advantage, 2d20kh1|
+  Disadvantage, 2d20kl1}
